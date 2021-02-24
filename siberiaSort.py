@@ -29,6 +29,7 @@ def stalinSort(prisoners):
       i2 += 1
 
   return prisoners
+
 if __name__ == "__main__":
   numbers = []
   for i in range(50):
